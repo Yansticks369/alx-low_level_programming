@@ -1,5 +1,4 @@
-#include
-<stdio.h>
+#include <stdio.h>
 /**
  * main - print possible combo of 3
  *
@@ -29,6 +28,6 @@ int main(void)
 			}
 		}
 	}
-	putchar('\n);
+	putchar('\n');
 	return (0);
 }
