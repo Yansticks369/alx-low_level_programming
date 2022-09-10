@@ -1,4 +1,5 @@
-#include <stdio.h>
+#include
+<stdio.h>
 /**
  * main - print possible combo of 3
  *
